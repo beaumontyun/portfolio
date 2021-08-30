@@ -1,17 +1,18 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div id="nav" class="container md:mr-60">
+    <router-link to="/">me</router-link> <span class="font-bold">/ </span>
+    <router-link to="/about">say hi</router-link>
   </div>
   <router-view/>
 </template>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Nanum Pen Script;
+  font-size: x-large;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
 }
 
@@ -25,6 +26,6 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #2194e0;
 }
 </style>
