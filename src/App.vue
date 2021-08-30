@@ -1,6 +1,6 @@
 <template>
   <div id="nav" class="container md:mr-60">
-    <router-link to="/">me</router-link> <span class="font-bold">/ </span>
+    <router-link to="/">me</router-link> <span class="font-bold dark:text-white">/ </span>
     <router-link to="/about">say hi</router-link>
   </div>
   <router-view/>

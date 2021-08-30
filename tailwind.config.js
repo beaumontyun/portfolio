@@ -17,6 +17,9 @@ module.exports = {
       blue: {
         450: '#2194e0'
       },
+      black: {
+        450: '#2c3e50'
+      },
     }
   },
   variants: {
