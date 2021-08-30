@@ -1,5 +1,5 @@
 <template>
-  <div class="container md:w-8/12 md:mr-80">
+  <div class="container md:w-8/12 mb-20 md:mr-80">
     <p class="font-semibold md:text-4xl">Got some stuff on your chest?</p>
     <br>
     <p class="text-xl md:text-4xl">Could be a hair, could be ketchup, or it could be your next idea - 
@@ -16,5 +16,6 @@
     </ul>
     <br>
     <p class="text-xl md:text-4xl">But just in case feellike conversing the old fashion way, you can always <a href="mailto:b.yun@hotmail.com" class="text-blue-450">email me</a></p>
+    <br>
   </div>
 </template>

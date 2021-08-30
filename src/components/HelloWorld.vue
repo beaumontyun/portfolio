@@ -13,6 +13,7 @@
     <p class="text-xl md:text-4xl">On the side, I am a qualified solicitor in England and Wales, sometimes I speak English, Cantonese, Mandarin and Spanish together uncontrollably</p>
     <br>
     <p class="text-xl md:text-4xl">Come <a href="https://calendly.com/b-yun/say-hi-to-beaumont" class="text-blue-450">say hi</a> whenever you are free!</p>
+    <br>
   </div>
 </template>
 
