@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-    <HelloWorld msg="Hello, I am Beaumont"/>
+    <HelloWorld class="bg-transparent" msg="Hello, I am Beaumont"/>
   </div>
 </template>
 
@@ -16,3 +15,12 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.home {
+  background-size: 300px 350px;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-image: url('~@/assets/naeads.png')
+}
+</style>
