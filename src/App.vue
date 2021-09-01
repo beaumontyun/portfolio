@@ -1,6 +1,7 @@
 <template>
   <div id="nav" class="container md:mr-60">
     <router-link to="/">me</router-link> <span class="font-bold dark:text-white">/ </span>
+    <router-link to="/bloglist">blog</router-link> <span class="font-bold dark:text-white">/ </span>
     <router-link to="/about">say hi</router-link>
   </div>
   <router-view/>
@@ -27,5 +28,9 @@
 
 #nav a.router-link-exact-active {
   color: #2194e0;
+}
+
+* {
+  background: #FFFEF7;
 }
 </style>

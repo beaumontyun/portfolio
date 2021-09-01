@@ -20,10 +20,15 @@ module.exports = {
       black: {
         450: '#2c3e50'
       },
+      white: {
+        450: '#FFFEF7'
+      }
     }
   },
   variants: {
-    extend: {},
+    extend: {
+      padding: ['hover']
+    },
   },
   plugins: [],
 }
