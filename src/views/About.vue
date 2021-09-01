@@ -15,7 +15,7 @@
       <li>- THE WORLD!</li>
     </ul>
     <br>
-    <p class="text-xl md:text-4xl dark:text-white">But just in case you feel like conversing the old fashion way, you can always <a href="mailto:b.yun@hotmail.com" class="text-blue-450 dark:text-red-500">email me</a></p>
+    <p class="text-xl md:text-4xl dark:text-white">But just in case you feel like conversing the old fashion way, you can always <a href="mailto:b.yun@hotmail.com" class="text-blue-450 dark:text-red-500">email me</a> or follow my on <a href="https://www.instagram.com/hsf_beaumont/" class="text-blue-450 dark:text-red-500">isntagram</a></p>
     <br>
   </div>
 </template>
