@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div id="home">
     <HelloWorld class="bg-transparent" msg="Hello, I am Beaumont"/>
   </div>
 </template>
@@ -17,10 +17,10 @@ export default {
 </script>
 
 <style scoped>
-.home {
+#home {
   background-size: 300px 350px;
   background-repeat: no-repeat;
   background-position: right top;
-  background-image: url('~@/assets/naeads.png')
+  /* background-image: url('~@/assets/02.09.png') */
 }
 </style>
